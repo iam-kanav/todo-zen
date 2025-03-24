@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Last Commit](https://img.shields.io/github/last-commit/iam-kanav/todo-zen)](https://github.com/iam-kanav/todo-zen/commits/main)
 
-[![Todo Zen Screenshot](./screenshot.png)](https://iam-kanav.github.io/todo-zen/) <!-- Clickable screenshot linking to live demo -->
+[![Todo Zen Screenshot](./Screenshot 2025-03-24 152651.png)](https://iam-kanav.github.io/todo-zen/) <!-- Clickable screenshot linking to live demo -->
 
 ## Live Demo
 
